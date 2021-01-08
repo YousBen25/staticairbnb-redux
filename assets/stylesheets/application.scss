@@ -8,9 +8,12 @@ body {
 }
 
 .flat {
-  flex: 50% 0 0;
+  flex: 45% 0 0;
   cursor: pointer;
   border: 6px solid transparent;
+  margin-bottom: 24px;
+  margin-right: 24px;
+
 }
 
 .selected {
